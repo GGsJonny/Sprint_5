@@ -1,2 +1,2 @@
-login = 'Evgen'
-password = '123456789'
+login = 'stellarburgers@mail.ru'
+password = 'stellarburgers'
