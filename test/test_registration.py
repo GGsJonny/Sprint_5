@@ -1,7 +1,7 @@
 import pytest
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from helper_tests import random_mail
+from helper_test import random_mail
 from locators import RegistrationLocators
 
 class TestRegistration:
